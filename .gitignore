@@ -1,0 +1,4 @@
+transformer_captioning/datasets
+*.pyc
+vit_classification/data
+*.pth
